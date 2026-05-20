@@ -2,11 +2,11 @@
 
 ## About
 
-This repository documents the practical work developed during my cybersecurity training.
+This repository organizes the practical work, notes, reports and exercises developed during my cybersecurity training.
 
-As I am starting my path in cybersecurity, this portfolio is intended to show what I learned through practical labs, technical notes, reports, scripts and security exercises.
+It also documents my progress as I start building a path in cybersecurity.
 
-The main focus is on networking, vulnerability analysis, web security, log analysis, intrusion detection, digital evidence and incident response.
+The portfolio focuses on practical topics such as **networking**, **vulnerability analysis**, **web security**, **log analysis**, **intrusion detection**, **digital evidence** and **incident response**.
 
 ---
 
@@ -42,12 +42,13 @@ The main focus is on networking, vulnerability analysis, web security, log analy
 ## What this portfolio includes
 
 - Practical cybersecurity labs
-- Technical notes
+- Technical notes and summaries
 - Vulnerability analysis reports
 - Log analysis exercises
-- IDS/IPS and monitoring exercises
+- Digital evidence analysis
 - Ruby scripts for basic security automation
-- Digital evidence and incident response documentation
+- IDS/IPS and monitoring exercises
+- Incident response documentation
 - Screenshots, commands and outputs from lab environments
 
 ---
@@ -169,31 +170,19 @@ The main focus is on networking, vulnerability analysis, web security, log analy
 - Zoiper
 
 ---
-
 ## Repository structure
 
-```text
-cybersecurity-home-lab-portfolio/
-├── 01-network-infrastructure/
-├── 02-governance-risk-compliance/
-├── 03-recon-vulnerability-assessment/
-├── 04-ruby-security-automation/
-├── 05-digital-evidence-log-analysis/
-├── 06-web-application-security/
-├── 07-soc-ids-ips-monitoring/
-├── 08-active-cybersecurity-incident-response/
-├── reports/
-├── evidence/
-├── templates/
-└── resources/
+The repository will be organized by cybersecurity areas, with separate folders for networking, governance, vulnerability analysis, web security, log analysis, monitoring, incident response, reports and evidence.
 
-Project status
+The structure will be updated as the portfolio grows.
+
+**Project status**
 
 This portfolio is currently under development.
 The first step is to organize the training content and create the repository structure.
 The next steps will include practical labs, screenshots, reports and scripts for each module.
 
-Ethical note
+**Ethical note**
 
 All activities in this repository are based on training materials, local lab environments, intentionally vulnerable machines or authorized targets.
 The purpose of this portfolio is learning, documentation and responsible cybersecurity practice.
