@@ -1,56 +1,188 @@
-# Cybersecurity Home Lab Portfolio
+# Cybersecurity Portfolio
 
-## About this project
+## About
 
-This portfolio was created after completing a cybersecurity training program.
+This repository documents the practical work developed during my cybersecurity training.
 
-The goal is to demonstrate practical knowledge through hands-on labs, technical documentation, screenshots, logs, scripts and security reports.
+As I am starting my path in cybersecurity, this portfolio is intended to show what I learned through practical labs, technical notes, reports, scripts and security exercises.
 
-This project covers networking, vulnerability assessment, web application security, log analysis, intrusion detection, security automation, governance and incident response.
+The main focus is on networking, vulnerability analysis, web security, log analysis, intrusion detection, digital evidence and incident response.
 
-## Main areas
+---
 
-- Network and infrastructure security
-- Governance, risk and compliance
-- OSINT and vulnerability assessment
-- Ruby scripting for cybersecurity
-- Digital evidence and log analysis
-- Web application security with OWASP ZAP
-- IDS/IPS, firewall and SOC monitoring
-- Active cybersecurity and incident response
+## Training information
+
+| Field | Details |
+|---|---|
+| Area | Cybersecurity |
+| Programme | Jovem + Digital |
+| Training service | Norte/Braga |
+| Level | 5 |
+| Duration | 300 hours |
+| Start date | 16/12/2025 |
+| End date | 18/05/2026 |
+
+---
+
+## Modules covered
+
+| UFCD | Module |
+|---|---|
+| 5101 | Hardware and Computer Networks |
+| 9187 | Legislation, Security and Privacy |
+| 9188 | Cybersecurity Fundamentals |
+| 9190 | Introduction to Programming Applied to Cybersecurity |
+| 9191 | Introduction to Evidence Analysis Techniques |
+| 9192 | Vulnerability Analysis |
+| 9195 | Intrusion Detection Systems Management |
+| 9196 | Active Cybersecurity |
+
+---
+
+## What this portfolio includes
+
+- Practical cybersecurity labs
+- Technical notes
+- Vulnerability analysis reports
+- Log analysis exercises
+- IDS/IPS and monitoring exercises
+- Ruby scripts for basic security automation
+- Digital evidence and incident response documentation
+- Screenshots, commands and outputs from lab environments
+
+---
+
+## Main topics
+
+- Network fundamentals
+- IP addressing, NAT and VPN
+- OSINT and reconnaissance
+- Nmap and vulnerability scanning
+- OWASP Top 10
+- OWASP ZAP
+- Web application security
+- SQL Injection, XSS and access control issues
+- Log analysis
+- Digital evidence
+- Chain of custody
+- IDS and IPS
+- Suricata, Snort and Fail2Ban
+- Linux firewall and hardening
+- Incident response
+- Forensic reporting
+
+---
 
 ## Tools and technologies
 
+### Lab environment
+
 - Kali Linux
 - Ubuntu Server
+- Windows
+- VirtualBox
+- Metasploitable2
+- XAMPP
+- Apache
+- OpenSSL
+
+### Reconnaissance and vulnerability analysis
+
 - Nmap
-- Metasploit
 - Nikto
 - OWASP ZAP
 - Wireshark
+- Maltego
+- Shodan
+- Google Dorking
+- OSINT Framework
+- Wayback Machine
+- Exploit-DB / Google Hacking Database
+- CVE Details
+
+### Web security
+
+- OWASP Top 10
+- PHP
+- JavaScript / Node.js
+- HTML
+- HTTP / HTTPS
+- Security headers
+- CSRF protection
+- Content Security Policy
+
+### Controlled lab exploitation
+
+- Metasploit Framework
+- Meterpreter
+
+### Defensive security and monitoring
+
 - Suricata
 - Snort
 - Fail2Ban
 - UFW
 - Tripwire
+- Auditd
+- Lynis
 - Wazuh
+
+### Programming and automation
+
 - Ruby
+- Regular Expressions
+- Nokogiri
+- Bash / Batch scripting
 
-## Portfolio modules
+### Passwords, hashing and encryption
 
-| Module | Topic |
-|---|---|
-| 01 | Network Infrastructure |
-| 02 | Governance, Risk and Compliance |
-| 03 | Reconnaissance and Vulnerability Assessment |
-| 04 | Ruby Security Automation |
-| 05 | Digital Evidence and Log Analysis |
-| 06 | Web Application Security |
-| 07 | SOC, IDS/IPS and Monitoring |
-| 08 | Active Cybersecurity and Incident Response |
+- MD5
+- SHA1
+- SHA256
+- SHA384
+- John the Ripper
+- Hashcat
+- Cain & Abel
+- MFA / 2FA
 
-## Ethical and legal note
+### Email and phishing analysis
 
-All activities documented in this portfolio were performed in controlled lab environments, using local virtual machines, intentionally vulnerable systems or authorized targets.
+- SPF
+- DKIM
+- DMARC
+- Email spoofing
+- Have I Been Pwned
+- ZeroBounce
+- Verify Email Address
 
-The goal of this project is learning, defense, documentation and responsible security practice.
+### Network and communication security
+
+- WireGuard
+- OpenVPN
+- IPSec
+- WPA / WPA2
+- Wi-Fi security
+- Rogue Access Points
+- VoIP
+- SIP
+- miniSIPServer
+- Zoiper
+
+---
+
+## Repository structure
+
+```text
+cybersecurity-home-lab-portfolio/
+├── 01-network-infrastructure/
+├── 02-governance-risk-compliance/
+├── 03-recon-vulnerability-assessment/
+├── 04-ruby-security-automation/
+├── 05-digital-evidence-log-analysis/
+├── 06-web-application-security/
+├── 07-soc-ids-ips-monitoring/
+├── 08-active-cybersecurity-incident-response/
+├── reports/
+├── evidence/
+├── templates/
+└── resources/
