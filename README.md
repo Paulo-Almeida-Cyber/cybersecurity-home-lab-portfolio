@@ -186,3 +186,14 @@ cybersecurity-home-lab-portfolio/
 ├── evidence/
 ├── templates/
 └── resources/
+
+Project status
+
+This portfolio is currently under development.
+The first step is to organize the training content and create the repository structure.
+The next steps will include practical labs, screenshots, reports and scripts for each module.
+
+Ethical note
+
+All activities in this repository are based on training materials, local lab environments, intentionally vulnerable machines or authorized targets.
+The purpose of this portfolio is learning, documentation and responsible cybersecurity practice.
